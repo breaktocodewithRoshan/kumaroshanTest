@@ -1,0 +1,7 @@
+Actual and Vartual
+Name and Domain Name
+Space and Hosting
+Buliding and Html
+Decoration adn Css
+Validatin and Js
+Extra effects and J.query
